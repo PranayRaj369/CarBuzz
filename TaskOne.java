@@ -1,5 +1,4 @@
-package demiGod;
-import java.util.Scanner;
+ import java.util.Scanner;
 
 public class TaskOne {
 	public static void main(String[] args) {
